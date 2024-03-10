@@ -1,0 +1,3 @@
+/Users/avelarfe/Desktop/memoryLeakCpp/cmake-build-debug/CMakeFiles/memoryLeakCpp.dir
+/Users/avelarfe/Desktop/memoryLeakCpp/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/avelarfe/Desktop/memoryLeakCpp/cmake-build-debug/CMakeFiles/rebuild_cache.dir
