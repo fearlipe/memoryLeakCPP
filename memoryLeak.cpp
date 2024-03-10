@@ -9,6 +9,7 @@ int main()
 
         printf("%d\n", *ptr);
 
+        free(ptr);
         ptr = NULL;
     }
 }

@@ -2,6 +2,6 @@
 triple:          'arm64-apple-darwin'
 binary-path:     '/Users/avelarfe/Projects/memoryLeakCpp/memoryLeak'
 relocations:
-  - { offsetInCU: 0x26, offset: 0x26, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0x0, symBinAddr: 0x100003F38, symSize: 0x54 }
-  - { offsetInCU: 0x2C72, offset: 0x2C72, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0x0, symBinAddr: 0x100003F38, symSize: 0x54 }
+  - { offsetInCU: 0x26, offset: 0x26, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0x0, symBinAddr: 0x100003F24, symSize: 0x5C }
+  - { offsetInCU: 0x2DD7, offset: 0x2DD7, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0x0, symBinAddr: 0x100003F24, symSize: 0x5C }
 ...
